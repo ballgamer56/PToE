@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Silicon (element)",
+	"description": "14th element on the periodic table with a symbol of [accent]Si[] \n\ndiscovered in 1824 by Jöns Jakob Berzelius\n\nhave 14 Eletron, 14 Proton and 14 Neutron\n\nweight: 28.0855 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

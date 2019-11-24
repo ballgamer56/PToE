@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Berylium (element)",
+	"description": "Fourth element on the periodic table with a symbol of [accent]Be[] \n\ndiscovered in 1798 by Louis-Nicolas Vauquelin\n\nhave 4 Eletron, 4 Proton and 5 Neutron\n\nweight: 9.0121 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

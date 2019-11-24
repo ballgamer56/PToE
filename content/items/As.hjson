@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Arsenic (element)",
+	"description": "33rd element on the periodic table with a symbol of [accent]As[] \n\ndiscovered in 1250\n\nhave 33 Eletron, 33 Proton and [accent]42[] Neutron\n\nweight: 74.9261 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

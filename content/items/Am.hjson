@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Americium (element)",
+	"description": "95th element on the periodic table with a symbol of [accent]Am[] \n\ndiscovered in 1944 by Glenn T. Seaborg, Ralph A. James, Leon O. Morgan, Albert Ghiorso\n\nhave 95 Eletron, 95 Proton and [accent]148[] Neutron\n\nweight: 243.0614 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

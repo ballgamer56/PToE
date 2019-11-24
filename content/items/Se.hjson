@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Selenium (element)",
+	"description": "34th element on the periodic table with a symbol of [accent]Se[] \n\ndiscovered in 1817 by Jöns Jakob Berzelius\n\nhave 34 Eletron, 34 Proton and [accent]45[] Neutron\n\nweight: 78.96 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

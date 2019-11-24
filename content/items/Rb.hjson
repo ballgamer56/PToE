@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Rubidium (element)",
+	"description": "37th element on the periodic table with a symbol of [accent]Rb[] \n\ndiscovered in 1861 by Robert Wilhelm Bunsen, Gustav Robert Kirchhoff\n\nhave 37 Eletron, 37 Proton and [accent]48[] Neutron\n\nweight: 85.467 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

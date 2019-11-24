@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Thorium (element)",
+	"description": "90th element on the periodic table with a symbol of [accent]Th[] \n\ndiscovered in 1829 by Jöns Jakob Berzelius\n\nhave 90 Eletron, 90 Proton and [accent]142[] Neutron\n\nweight: 232.0377 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

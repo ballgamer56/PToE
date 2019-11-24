@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Promethium (element)",
+	"description": "61st element on the periodic table with a symbol of [accent]Pm[] \n\ndiscovered in 1942 by Chien Shiung Wu, Emilio Segrè, Hans Bethe\n\nhave 61 Eletron, 61 Proton and [accent]85[] Neutron\n\nweight: 146.915 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

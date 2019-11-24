@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Praseodymium (element)",
+	"description": "59th element on the periodic table with a symbol of [accent]Pr[] \n\ndiscovered in 1885 by Carl Auer von Welsbach\n\nhave 59 Eletron,59 Proton and [accent]82[] Neutron\n\nweight: 140.907 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

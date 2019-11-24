@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Curium (element)",
+	"description": "96th element on the periodic table with a symbol of [accent]Cm[] \n\ndiscovered in 1944 by Glenn T. Seaborg, Ralph A. James, Albert Ghiorso\n\nhave 96 Eletron, 96 Proton and [accent]151[] Neutron\n\nweight: 247.0703 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

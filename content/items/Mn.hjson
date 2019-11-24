@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Manganese (element)",
+	"description": "25th element on the periodic table with a symbol of [accent]Mn[] \n\ndiscovered in 1774 by Johan Gottlieb Gahn, Ignatius Gottfried Kaim\n\nhave 25 Eletron, 25 Proton and [accent]30[] Neutron\n\nweight: 54.9380 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Tantalum (element)",
+	"description": "73rd element on the periodic table with a symbol of [accent]Ta[] \n\ndiscovered in 1802 by Anders Gustaf Ekeberg\n\nhave 73 Eletron, 73 Proton and [accent]108[] Neutron\n\nweight: 180.947 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

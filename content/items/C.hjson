@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Carbon (element)",
+	"description": "Sixth element on the periodic table with a symbol of [accent]C[] \n\ndiscovered by Humphry Davy\n\nhave 6 Eletron, 6 Proton and 6 Neutron\n\nweight: 12.0107 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

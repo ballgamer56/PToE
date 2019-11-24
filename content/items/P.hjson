@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Phosphorus (element)",
+	"description": "15th element on the periodic table with a symbol of [accent]P[] \n\ndiscovered in 1669 by Henning Brand\n\nhave 15 Eletron, 15 Proton and 16 Neutron\n\nweight: 30.9737 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

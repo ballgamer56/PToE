@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Samarium (element)",
+	"description": "62nd element on the periodic table with a symbol of [accent]Sm[] \n\ndiscovered in 1879 by Lecoq de Boisbaudran\n\nhave 62 Eletron, 62 Proton and [accent]88[] Neutron\n\nweight: 150.36 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

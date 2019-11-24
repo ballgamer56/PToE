@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Gold (element)",
+	"description": "79th element on the periodic table with a symbol of [accent]Au[] \n\ndiscovered before 6000 BCE\n\nhave 79 Eletron, 79 Proton and [accent]118[] Neutron\n\nweight: 196.966 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

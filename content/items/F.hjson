@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Fluorine (element)",
+	"description": "Ninth element on the periodic table with a symbol of [accent]F[] \n\ndiscovered in 1886 by Ferdinand Frederic Henri Moissan\n\nhave 9 Eletron, 9 Proton and 10 Neutron\n\nweight: 18.9984 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

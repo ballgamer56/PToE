@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Dubnium (element)",
+	"description": "105th element on the periodic table with a symbol of [accent]Db[] \n\ndiscovered in 1970 by Lawrence Berkeley National Laboratory and Joint Institute for Nuclear Research\n\nhave 105 Eletron, 105 Proton and [accent]163[] Neutron\n\nweight: 268 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

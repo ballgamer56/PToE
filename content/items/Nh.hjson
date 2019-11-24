@@ -1,0 +1,9 @@
+{
+	"type": "resource",
+	"name": "Nihonium (element)",
+	"description": "113th element on the periodic table with a symbol of [accent]Nh[] \n\ndiscovered by Riken (Japan, first undisputed claim 2004)\n
+JINR (Russia)\n and Livermore (US, first announcement 2003)\n\nhave 113 Eletron, 113 Proton and [accent]173[] Neutron\n\nweight: 286.1810 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

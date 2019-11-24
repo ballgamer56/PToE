@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Niobium (element)",
+	"description": "41st element on the periodic table with a symbol of [accent]Nb[] \n\ndiscovered in 1801 by Charles Hatchett\n\nhave 41 Eletron, 41 Proton and [accent]52[] Neutron\n\nweight: 92.906 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

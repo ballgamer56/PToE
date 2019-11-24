@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Indium (element)",
+	"description": "49th element on the periodic table with a symbol of [accent]In[] \n\ndiscovered in 1863 by Ferdinand Reich, Hieronymous Theodor Richter\n\nhave 49 Eletron, 49 Proton and [accent]66[] Neutron\n\nweight: 114.818 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

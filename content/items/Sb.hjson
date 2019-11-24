@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Antimony (element)",
+	"description": "51st element on the periodic table with a symbol of [accent]Sb[] \n\ndiscovered before 800 CE\n\nhave 51 Eletron,51 Proton and [accent]71[] Neutron\n\nweight: 121.760 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

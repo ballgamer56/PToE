@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Cesium (element)",
+	"description": "55th element on the periodic table with a symbol of [accent]Cs[] \n\ndiscovered in 1860 by Robert Bunsen, Gustav Kirchhoff\n\nhave 55 Eletron,55 Proton and [accent]78[] Neutron\n\nweight: 132.905 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

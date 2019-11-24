@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Gallium (element)",
+	"description": "31st element on the periodic table with a symbol of [accent]Ga[] \n\ndiscovered in 1875 by Pual Emile Lecoq de Boisbaudran\n\nhave 31 Eletron, 31 Proton and [accent]39[] Neutron\n\nweight: 69.723 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

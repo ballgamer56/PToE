@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Magnesium (element)",
+	"description": "12th element on the periodic table with a symbol of [accent]Mg[] \n\ndiscovered in 1808 by Joseph Black, Humphry Davy\n\nhave 12 Eletron, 12 Proton and 12 Neutron\n\nweight: 24.3050 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

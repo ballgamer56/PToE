@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Meitnerium (element)",
+	"description": "109th element on the periodic table with a symbol of [accent]Mt[] \n\ndiscovered in 1982 by Gesellschaft für Schwerionenforschung\n\nhave 109 Eletron, 109 Proton and [accent]169[] Neutron\n\nweight: 278 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

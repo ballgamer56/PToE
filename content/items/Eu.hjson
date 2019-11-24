@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Europium (element)",
+	"description": "63rd element on the periodic table with a symbol of [accent]Eu[] \n\ndiscovered in 1896 by Eugène-Anatole Demarçay\n\nhave 63 Eletron, 63 Proton and [accent]89[] Neutron\n\nweight: 151.964 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

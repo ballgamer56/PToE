@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Lutetium (element)",
+	"description": "71st element on the periodic table with a symbol of [accent]Lu[] \n\ndiscovered in 1906 by Carl Auer von Welsbach, Georges Urbain\n\nhave 71 Eletron, 71 Proton and [accent]103[] Neutron\n\nweight: 174.9668 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

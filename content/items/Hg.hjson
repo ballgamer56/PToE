@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Mercury (element)",
+	"description": "80th element on the periodic table with a symbol of [accent]Hg[] \n\ndiscovered before 2000 BCE\n\nhave 80 Eletron, 80 Proton and [accent]120[] Neutron\n\nweight: 200.592 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

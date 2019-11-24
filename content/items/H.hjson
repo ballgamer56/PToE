@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Hydrogen (element)",
+	"description": "First element on the periodic table with a symbol of [accent]H[] \n\ndiscovered in 1766 by Henry Cavendish\n\nhave 1 Eletron, 1 Proton and 0 Neutron\n\nweight: 1.0079 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Sulfur (element)",
+	"description": "16th element on the periodic table with a symbol of [accent]S[] \n\ndiscovered <600 BCE\n\nhave 16 Eletron, 16 Proton and 16 Neutron\n\nweight: 32.065 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

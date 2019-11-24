@@ -1,0 +1,28 @@
+{
+	"type": "Separator",
+	"name": "PEE - water",
+	"description": "Pure Elements Extractor or [accent]PEE[] (Yeah. totally cool acronym) use for extract pure element(s) out of stuff\nThis one extract 2 Hydrogen and 1 Oxygen from water",
+	"liquidCapacity": 50,
+	"results":  [{"item": "H", "amount": 2},{"item": "O", "amount": 1}],
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"craftTime": 90,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 1.7
+		"liquid": {
+			"liquid": "water",
+			"amount": 0.1
+		}
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 50 },
+		{ "item": "graphite", "amount": 40 },
+		{ "item": "copper", "amount": 50 }
+	],
+	"category": "crafting",
+	"research": "water-extractor",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

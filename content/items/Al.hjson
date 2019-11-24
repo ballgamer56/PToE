@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Aluminum (element)",
+	"description": "13th element on the periodic table with a symbol of [accent]Al[] \n\ndiscovered in 1825 by Hans Christian Ørsted\n\nhave 13 Eletron, 13 Proton and 14 Neutron\n\nweight: 26.9815 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

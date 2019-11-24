@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Neodymium (element)",
+	"description": "60th element on the periodic table with a symbol of [accent]Nd[] \n\ndiscovered in 1885 by Carl Auer von Welsbach\n\nhave 60 Eletron, 60 Proton and [accent]84[] Neutron\n\nweight: 144.242 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

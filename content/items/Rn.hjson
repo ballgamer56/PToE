@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Radon (element)",
+	"description": "86th element on the periodic table with a symbol of [accent]Rn[] \n\ndiscovered in 1899 by Ernest Rutherford, Robert B. Owens Segrè\n\nhave 86 Eletron, 86 Proton and [accent]136[] Neutron\n\nweight: 222.0176 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

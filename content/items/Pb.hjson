@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Lead (element)",
+	"description": "82nd element on the periodic table with a symbol of [accent]Pb[] \n\ndiscovered 7000 BCE\n\nhave 82 Eletron, 82 Proton and [accent]125[] Neutron\n\nweight: 207.2 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Oganesson (element)",
+	"description": "118th element on the periodic table with a symbol of [accent]Og[] \n\ndiscovered in 2002 by Joint Institute for Nuclear Research \nand Lawrence Livermore National Laboratory\n\nhave 118 Eletron, 118 Proton and [accent]177[] Neutron\n\nweight: 294.2139 (unconfirmed: 295) g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

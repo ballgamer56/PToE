@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Ytterbium (element)",
+	"description": "70th element on the periodic table with a symbol of [accent]Yb[] \n\ndiscovered in 1878 by Jean Charles Galissard de Marignac\n\nhave 70 Eletron, 70 Proton and [accent]103[] Neutron\n\nweight: 173.045 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

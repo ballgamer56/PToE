@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Tin (element)",
+	"description": "50th element on the periodic table with a symbol of [accent]Sn[] \n\ndiscovered around 3500 BC\n\nhave 50 Eletron,50 Proton and [accent]69[] Neutron\n\nweight: 118.710 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

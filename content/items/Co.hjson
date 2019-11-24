@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Cobolt (element)",
+	"description": "27th element on the periodic table with a symbol of [accent]Co[] \n\ndiscovered in 1735 by Georg Bandt\n\nhave 27 Eletron, 27 Proton and [accent]32[] Neutron\n\nweight: 58.9331 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

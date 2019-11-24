@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Bismuth (element)",
+	"description": "83rd element on the periodic table with a symbol of [accent]Bi[] \n\ndiscovered before AD 1000\n\nhave 83 Eletron, 83 Proton and [accent]126[] Neutron\n\nweight: 208.980 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

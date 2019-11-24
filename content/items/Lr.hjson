@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Lawrencium (element)",
+	"description": "103rd element on the periodic table with a symbol of [accent]Lr[] \n\ndiscovered in 1961-1971 by Lawrence Berkeley National Laboratory and Joint Institute for Nuclear Research\n\nhave 103 Eletron, 103 Proton and [accent]163[] Neutron\n\nweight: 266.1193 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

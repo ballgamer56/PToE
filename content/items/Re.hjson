@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Rhenium (element)",
+	"description": "75th element on the periodic table with a symbol of [accent]Re[] \n\ndiscovered in 1908 by Masataka Ogawa\n\nhave 75 Eletron, 75 Proton and [accent]111[] Neutron\n\nweight: 186.207 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

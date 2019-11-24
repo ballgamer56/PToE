@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Mendelevium (element)",
+	"description": "101st element on the periodic table with a symbol of [accent]Md[] \n\ndiscovered in 1955 by Lawrence Berkeley National Laboratory\n\nhave 101 Eletron, 101 Proton and [accent]157[] Neutron\n\nweight: 258.0951 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Protactinium (element)",
+	"description": "91st element on the periodic table with a symbol of [accent]Pa[] \n\ndiscovered in 1913 by Kasimir Fajans, Oswald Helmuth Göhring\n\nhave 91 Eletron, 91 Proton and [accent]140[] Neutron\n\nweight: 231.035 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

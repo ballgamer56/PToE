@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Chromium (element)",
+	"description": "24th element on the periodic table with a symbol of [accent]Cr[] \n\ndiscovered in 1797 by Louis-Nicolas Vauquelin\n\nhave 24 Eletron, 24 Proton and [accent]28[] Neutron\n\nweight: 51.9961 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

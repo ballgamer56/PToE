@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Zirconium (element)",
+	"description": "40th element on the periodic table with a symbol of [accent]Zr[] \n\ndiscovered in 1789 by Martin Heinrich Klaproth\n\nhave 40 Eletron, 40 Proton and [accent]51[] Neutron\n\nweight: 91.224 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Helium (element)",
+	"description": "Second element on the periodic table with a symbol of [accent]He[] \n\ndiscovered in 1895 by Pierre Jules César Janssen, Joseph Norman Lockyer\n\nhave 2 Eletron, 2 Proton and 2 Neutron\n\nweight: 4.0026 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

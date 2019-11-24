@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Berkelium (element)",
+	"description": "97th element on the periodic table with a symbol of [accent]Bk[] \n\ndiscovered in 1949 by Lawrence Berkeley National Laboratory\n\nhave 97 Eletron, 97 Proton and [accent]150[] Neutron\n\nweight: 247.0703 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

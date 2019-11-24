@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Iodine (element)",
+	"description": "53rd element on the periodic table with a symbol of [accent]I[] \n\ndiscovered in 1811 by Bernard Courtois\n\nhave 53 Eletron,53 Proton and [accent]74[] Neutron\n\nweight: 126.904 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

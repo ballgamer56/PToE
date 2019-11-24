@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Potassium (element)",
+	"description": "19th element on the periodic table with a symbol of [accent]K[] \n\ndiscovered in 1807 by Humphry Davy\n\nhave 19 Eletron, 19 Proton and 20 Neutron\n\nweight: 39.0983 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

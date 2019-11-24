@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Dysprosium (element)",
+	"description": "66th element on the periodic table with a symbol of [accent]Dy[] \n\ndiscovered in 1886 by Lecoq de Boisbaudran\n\nhave 66 Eletron, 66 Proton and [accent]96[] Neutron\n\nweight: 162.500 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

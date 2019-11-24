@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Seaborgium (element)",
+	"description": "106th element on the periodic table with a symbol of [accent]Sg[] \n\ndiscovered in 1974 by Lawrence Berkeley National Laboratory\n\nhave 106 Eletron, 106 Proton and [accent]163[] Neutron\n\nweight: 269 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Einsteinium (element)",
+	"description": "99th element on the periodic table with a symbol of [accent]Es[] \n\ndiscovered in 1952 by Lawrence Berkeley National Laboratory\n\nhave 99 Eletron, 99 Proton and [accent]153[] Neutron\n\nweight: 252.0829 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

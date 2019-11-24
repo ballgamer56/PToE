@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Strontium (element)",
+	"description": "38th element on the periodic table with a symbol of [accent]Sr[] \n\ndiscovered in 1790 by Adair Crawford\n\nhave 38 Eletron, 38 Proton and [accent]50[] Neutron\n\nweight: 87.62 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

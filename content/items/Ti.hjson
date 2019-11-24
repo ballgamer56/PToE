@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Titanium (element)",
+	"description": "22nd element on the periodic table with a symbol of [accent]Ti[] \n\ndiscovered in 1795 by William Gregor\n\nhave 22 Eletron, 22 Proton and [accent]26[] Neutron\n\nweight: 47.867 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

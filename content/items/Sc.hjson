@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Scandium (element)",
+	"description": "21st element on the periodic table with a symbol of [accent]Sc[] \n\ndiscovered in 1879 by Lars Fredrik Nilson\n\nhave 21 Eletron, 21 Proton and [accent]24[] Neutron\n\nweight: 44.9559 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

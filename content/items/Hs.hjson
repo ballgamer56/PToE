@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Hassium (element)",
+	"description": "108th element on the periodic table with a symbol of [accent]Hs[] \n\ndiscovered in 1981 by Gesellschaft für Schwerionenforschung\n\nhave 108 Eletron, 108 Proton and [accent]161[] Neutron\n\nweight: 269 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

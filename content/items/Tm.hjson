@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Thulium (element)",
+	"description": "69th element on the periodic table with a symbol of [accent]Tm[] \n\ndiscovered in 1879 by Per Teodor Cleve\n\nhave 69 Eletron, 69 Proton and [accent]99[] Neutron\n\nweight: 168.934 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

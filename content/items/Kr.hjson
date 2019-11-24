@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Krypton (element)",
+	"description": "36th element on the periodic table with a symbol of [accent]Kr[] \n\ndiscovered in 1898 by Sir William Ramsay, Morris William Travers\n\nhave 36 Eletron, 36 Proton and [accent]48[] Neutron\n\nweight: 83.798 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

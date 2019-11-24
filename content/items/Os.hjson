@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Osmium (element)",
+	"description": "76th element on the periodic table with a symbol of [accent]Os[] \n\ndiscovered in 1803 by Smithson Tennant\n\nhave 76 Eletron, 76 Proton and [accent]115[] Neutron\n\nweight: 190.23 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

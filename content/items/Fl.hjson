@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Flerovium (element)",
+	"description": "114th element on the periodic table with a symbol of [accent]Fl[] \n\ndiscovered in 1999 by Joint Institute for Nuclear Research (JINR) \nand Lawrence Livermore National Laboratory (LLNL\n\nhave 114 Eletron, 114 Proton and [accent]175[] Neutron\n\nweight: 289 (unconfirmed: 290) g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

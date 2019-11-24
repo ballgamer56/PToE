@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Plutonium (element)",
+	"description": "94th element on the periodic table with a symbol of [accent]Pu[] \n\ndiscovered in 1940–1941 by Glenn T. Seaborg, Arthur Wahl, Joseph W. Kennedy, Edwin McMillan\n\nhave 94 Eletron, 94 Proton and [accent]150[] Neutron\n\nweight: 244.0642 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Francium (element)",
+	"description": "87th element on the periodic table with a symbol of [accent]Fr[] \n\ndiscovered in 1939 by Marguerite Perey\n\nhave 87 Eletron, 87 Proton and [accent]136[] Neutron\n\nweight: 223.0197 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Zinc (element)",
+	"description": "30th element on the periodic table with a symbol of [accent]Zn[] \n\ndiscovered in 1300-1000 BCE\n\nhave 30 Eletron, 30 Proton and [accent]35[] Neutron\n\nweight: 65.409 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Copernicium (element)",
+	"description": "112th element on the periodic table with a symbol of [accent]Cn[] \n\ndiscovered in 1996 by Gesellschaft für Schwerionenforschung\n\nhave 112 Eletron, 112 Proton and [accent]173[] Neutron\n\nweight: 285.1744 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

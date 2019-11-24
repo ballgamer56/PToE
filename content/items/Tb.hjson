@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Terbium (element)",
+	"description": "65th element on the periodic table with a symbol of [accent]Tb[] \n\ndiscovered in 1843 by Carl Gustaf Mosander\n\nhave 65 Eletron, 65 Proton and [accent]93[] Neutron\n\nweight: 158.925 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Moscovium (element)",
+	"description": "115th element on the periodic table with a symbol of [accent]Mc[] \n\ndiscovered in 2003 by Joint Institute for Nuclear Research (JINR) \nand Lawrence Livermore National Laboratory (LLNL\n\nhave 115 Eletron, 115 Proton and [accent]175[] Neutron\n\nweight: 290 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

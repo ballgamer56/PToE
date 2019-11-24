@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Radium (element)",
+	"description": "88th element on the periodic table with a symbol of [accent]Ra[] \n\ndiscovered in 1898 by Pierre and Marie Curie\n\nhave 88 Eletron, 88 Proton and [accent]138[] Neutron\n\nweight: 226.0254 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

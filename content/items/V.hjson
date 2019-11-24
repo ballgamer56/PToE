@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Vanadium (element)",
+	"description": "23rd element on the periodic table with a symbol of [accent]V[] \n\ndiscovered in 1830 by Andres Manuel del Rio\n\nhave 23 Eletron, 23 Proton and [accent]28[] Neutron\n\nweight: 50.9415 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

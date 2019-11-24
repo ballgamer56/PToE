@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Yttrium (element)",
+	"description": "39th element on the periodic table with a symbol of [accent]Y[] \n\ndiscovered in 1794 by Johan Gadolin\n\nhave 39 Eletron, 39 Proton and [accent]50[] Neutron\n\nweight: 88.905 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

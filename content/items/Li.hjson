@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Lithium (element)",
+	"description": "Third element on the periodic table with a symbol of [accent]Li[] \n\ndiscovered in 1817 by Johan August Arfwedson\n\nhave 3 Eletron, 3 Proton and 4 Neutron\n\nweight: 6.941 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

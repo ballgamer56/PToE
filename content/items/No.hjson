@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Nobelium (element)",
+	"description": "102nd element on the periodic table with a symbol of [accent]No[] \n\ndiscovered in 1966 by Joint Institute for Nuclear Research\n\nhave 102 Eletron, 102 Proton and [accent]157[] Neutron\n\nweight: 259.1009 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

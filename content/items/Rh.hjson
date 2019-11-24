@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Rhodium (element)",
+	"description": "45th element on the periodic table with a symbol of [accent]Rh[] \n\ndiscovered in 1803 by William Hyde Wollaston\n\nhave 45 Eletron, 45 Proton and [accent]57[] Neutron\n\nweight: 102.905 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Boron (element)",
+	"description": "Fifth element on the periodic table with a symbol of [accent]B[] \n\ndiscovered in 1808 by Joseph Louis Gay-Lussac, Louis Jacques Thénard, Humphry Davy\n\nhave 5 Eletron, 5 Proton and 6 Neutron\n\nweight: 10.881 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

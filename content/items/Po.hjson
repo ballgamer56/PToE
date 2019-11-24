@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Polonium (element)",
+	"description": "84th element on the periodic table with a symbol of [accent]Po[] \n\ndiscovered in 1898 by Pierre and Marie Curie\n\nhave 84 Eletron, 84 Proton and [accent]126[] Neutron\n\nweight: 208.9824 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

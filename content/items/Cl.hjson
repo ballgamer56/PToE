@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Chlorine (element)",
+	"description": "17th element on the periodic table with a symbol of [accent]Cl[] \n\ndiscovered in 1774 by Carl Wilhelm Scheele\n\nhave 17 Eletron, 17 Proton and 18 Neutron\n\nweight: 35.453 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Iron (element)",
+	"description": "26th element on the periodic table with a symbol of [accent]Fe[] \n\ndiscovered in antiquity\n\nhave 26 Eletron, 26 Proton and [accent]30[] Neutron\n\nweight: 55.845 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

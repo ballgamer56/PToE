@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Sodium (element)",
+	"description": "11th element on the periodic table with a symbol of [accent]Na[] \n\ndiscovered in 1807 by Humphry Davy\n\nhave 11 Eletron, 11 Proton and 12 Neutron\n\nweight: 22.9897 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

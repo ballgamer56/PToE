@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Barium (element)",
+	"description": "56th element on the periodic table with a symbol of [accent]Ba[] \n\ndiscovered in 1772 by Carl Wilhelm Scheele\n\nhave 56 Eletron,56 Proton and [accent]81[] Neutron\n\nweight: 137.327 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

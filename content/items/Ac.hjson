@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Actinium (element)",
+	"description": "89th element on the periodic table with a symbol of [accent]Ac[] \n\ndiscovered in 1902 by Friedrich Oskar Giesel\n\nhave 89 Eletron, 89 Proton and [accent]138[] Neutron\n\nweight: 227.0278 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

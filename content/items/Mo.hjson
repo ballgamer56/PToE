@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Molybdenum (element)",
+	"description": "42nd element on the periodic table with a symbol of [accent]Mo[] \n\ndiscovered in 1778 by Carl Wilhelm Scheele\n\nhave 42 Eletron, 42 Proton and [accent]54[] Neutron\n\nweight: 95.94 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

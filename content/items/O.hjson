@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Oxygen (element)",
+	"description": "Eighth element on the periodic table with a symbol of [accent]O[] \n\ndiscovered in 1774 by Michał Sędziwój, Joseph Priestley, Carl Wilhelm Scheele\n\nhave 8 Eletron, 8 Proton and 8 Neutron\n\nweight: 15.9994 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Cerium (element)",
+	"description": "58th element on the periodic table with a symbol of [accent]Ce[] \n\ndiscovered in 1803 by Martin Heinrich Klaproth, Jöns Jakob Berzelius, Wilhelm Hisinger\n\nhave 58 Eletron,58 Proton and [accent]82[] Neutron\n\nweight: 140.116 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

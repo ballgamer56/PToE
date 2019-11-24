@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Technitium (element)",
+	"description": "43rd element on the periodic table with a symbol of [accent]Mo[] \n\ndiscovered in 1937 by Emilio Gino Segrè, Carlo Perrier\n\nhave 43 Eletron, 43 Proton and [accent]55[] Neutron\n\nweight: 98.906 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

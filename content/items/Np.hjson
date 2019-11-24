@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Neptunium (element)",
+	"description": "93rd element on the periodic table with a symbol of [accent]Np[] \n\ndiscovered in 1940 by 	Edwin McMillan, Philip H. Abelson\n\nhave 93 Eletron, 93 Proton and [accent]144[] Neutron\n\nweight: 237.0482 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

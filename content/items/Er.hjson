@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Erbium (element)",
+	"description": "68th element on the periodic table with a symbol of [accent]Er[] \n\ndiscovered in 1843 by 	Carl Gustaf Mosander\n\nhave 68 Eletron, 68 Proton and [accent]99[] Neutron\n\nweight: 167.259 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

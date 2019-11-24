@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Palladium (element)",
+	"description": "46th element on the periodic table with a symbol of [accent]Pd[] \n\ndiscovered in 1802 by William Hyde Wollaston\n\nhave 46 Eletron, 46 Proton and [accent]60[] Neutron\n\nweight: 106.42 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

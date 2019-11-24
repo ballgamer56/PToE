@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Nickle (element)",
+	"description": "28th element on the periodic table with a symbol of [accent]Ni[] \n\ndiscovered in 1751 by Axel Frederic con Constedt\n\nhave 28 Eletron, 28 Proton and [accent]31[] Neutron\n\nweight: 58.6934 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

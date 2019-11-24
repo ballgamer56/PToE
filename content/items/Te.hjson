@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Tellurium (element)",
+	"description": "52nd element on the periodic table with a symbol of [accent]Te[] \n\ndiscovered in 1782 by Franz-Joseph Müller von Reichenstein\n\nhave 52 Eletron,52 Proton and [accent]75[] Neutron\n\nweight: 127.60 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Cadmium (element)",
+	"description": "48th element on the periodic table with a symbol of [accent]Cd[] \n\ndiscovered in 1817 by Karl Samuel Leberecht Hermann, Friedrich Stromeyer\n\nhave 48 Eletron, 48 Proton and [accent]64[] Neutron\n\nweight: 112.414 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

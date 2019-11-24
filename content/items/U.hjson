@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Uranium (element)",
+	"description": "92nd element on the periodic table with a symbol of [accent]U[] \n\ndiscovered in 1789 by Martin Heinrich Klaproth\n\nhave 92 Eletron, 92 Proton and [accent]146[] Neutron\n\nweight: 238.028 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

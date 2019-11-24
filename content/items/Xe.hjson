@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Xenon (element)",
+	"description": "54th element on the periodic table with a symbol of [accent]Xe[] \n\ndiscovered in 1898 by William Ramsay, Morris Travers\n\nhave 54 Eletron,54 Proton and [accent]77[] Neutron\n\nweight: 131.293 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

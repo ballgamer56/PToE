@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Silver (element)",
+	"description": "47th element on the periodic table with a symbol of [accent]Ag[] \n\ndiscovered before 5000 BC\n\nhave 47 Eletron, 47 Proton and [accent]61[] Neutron\n\nweight: 107.8682 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Argon (element)",
+	"description": "18th element on the periodic table with a symbol of [accent]Ar[] \n\ndiscovered in 1894 by Sir William Ramsay\n\nhave 18 Eletron, 18 Proton and [accent]22[] Neutron\n\nweight: 39.948 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

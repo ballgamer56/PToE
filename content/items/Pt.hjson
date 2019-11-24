@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Platnium (element)",
+	"description": "78th element on the periodic table with a symbol of [accent]Pt[] \n\ndiscovered in 1735 by Antonio de Ulloa\n\nhave 78 Eletron, 78 Proton and [accent]117[] Neutron\n\nweight: 192.217 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

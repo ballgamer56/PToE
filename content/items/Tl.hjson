@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Thallium (element)",
+	"description": "81st element on the periodic table with a symbol of [accent]Tl[] \n\ndiscovered in 1861 by William Crookes\n\nhave 81 Eletron, 81 Proton and [accent]123[] Neutron\n\nweight: 204.38 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

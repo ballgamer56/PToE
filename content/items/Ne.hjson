@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Neon (element)",
+	"description": "Tenth element on the periodic table with a symbol of [accent]Ne[] \n\ndiscovered in 1898 by Sir William Ramsay, Morris William\n\nhave 10 Eletron, 10 Proton and 10 Neutron\n\nweight: 20.1797 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

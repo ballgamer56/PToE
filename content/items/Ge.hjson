@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Germanium (element)",
+	"description": "32nd element on the periodic table with a symbol of [accent]Ge[] \n\ndiscovered in 1886 by Clemens Alexander Winkler\n\nhave 32 Eletron, 32 Proton and [accent]41[] Neutron\n\nweight: 72.64 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

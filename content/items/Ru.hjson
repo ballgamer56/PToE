@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Ruthenium (element)",
+	"description": "44th element on the periodic table with a symbol of [accent]Ru[] \n\ndiscovered in 1844 by Karl Ernst Claus\n\nhave 44 Eletron, 44 Proton and [accent]58[] Neutron\n\nweight: 101.07 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Livermorium (element)",
+	"description": "116th element on the periodic table with a symbol of [accent]Lv[] \n\ndiscovered in 2000 by Joint Institute for Nuclear Research (JINR) \nand Lawrence Livermore National Laboratory (LLNL\n\nhave 116 Eletron, 116 Proton and [accent]177[] Neutron\n\nweight: 293 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

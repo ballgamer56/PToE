@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Bohrium (element)",
+	"description": "107th element on the periodic table with a symbol of [accent]Bh[] \n\ndiscovered in 1981 by Gesellschaft für Schwerionenforschung\n\nhave 107 Eletron, 107 Proton and [accent]163[] Neutron\n\nweight: 270 (unconfirmed: 278) g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

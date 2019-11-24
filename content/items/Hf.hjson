@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Hafnium (element)",
+	"description": "72nd element on the periodic table with a symbol of [accent]Hf[] \n\ndiscovered in 1922 by Dirk Coster, George de Hevesy\n\nhave 72 Eletron, 72 Proton and [accent]106[] Neutron\n\nweight: 178.49 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Tungsten (element)",
+	"description": "74th element on the periodic table with a symbol of [accent]W[] \n\ndiscovered in 1781 by Carl Wilhelm Scheele\n\nhave 74 Eletron, 74 Proton and [accent]109[] Neutron\n\nweight: 183.84 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

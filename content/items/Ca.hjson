@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Calcium (element)",
+	"description": "20th element on the periodic table with a symbol of [accent]Ca[] \n\ndiscovered in 1808 by Humphry Davy\n\nhave 20 Eletron, 20 Proton and 20 Neutron\n\nweight: 40.078 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

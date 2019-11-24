@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Rutherfordium (element)",
+	"description": "104th element on the periodic table with a symbol of [accent]Rf[] \n\ndiscovered in 1964-1969 by Lawrence Berkeley National Laboratory and Joint Institute for Nuclear Research\n\nhave 104 Eletron, 104 Proton and [accent]163[] Neutron\n\nweight: 267 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

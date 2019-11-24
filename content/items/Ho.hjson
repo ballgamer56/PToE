@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Holmium (element)",
+	"description": "67th element on the periodic table with a symbol of [accent]Ho[] \n\ndiscovered in 1878 by Jacques-Louis Soret, Marc Delafontaine\n\nhave 67 Eletron, 67 Proton and [accent]97[] Neutron\n\nweight: 164.930 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

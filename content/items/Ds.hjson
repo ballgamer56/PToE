@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Darmstadtium (element)",
+	"description": "110th element on the periodic table with a symbol of [accent]Ds[] \n\ndiscovered in 1994 by Gesellschaft für Schwerionenforschung\n\nhave 110 Eletron, 110 Proton and [accent]171[] Neutron\n\nweight: 281.1620 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

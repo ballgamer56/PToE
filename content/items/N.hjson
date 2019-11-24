@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Nitrogen (element)",
+	"description": "Eighth element on the periodic table with a symbol of [accent]O[] \n\ndiscovered in 1772 by Daniel Rutherford\n\nhave 7 Eletron, 7 Proton and 7 Neutron\n\nweight: 14.0067 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

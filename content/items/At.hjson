@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Astatine (element)",
+	"description": "85th element on the periodic table with a symbol of [accent]At[] \n\ndiscovered in 1940 by 	Dale R. Corson, Kenneth Ross MacKenzie, Emilio Segrè\n\nhave 85 Eletron, 85 Proton and [accent]125[] Neutron\n\nweight: 209.9871 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

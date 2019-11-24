@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Fermium (element)",
+	"description": "100th element on the periodic table with a symbol of [accent]Fm[] \n\ndiscovered in 1952 by Lawrence Berkeley National Laboratory\n\nhave 100 Eletron, 100 Proton and [accent]157[] Neutron\n\nweight: 257.0951 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

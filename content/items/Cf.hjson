@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Californium (element)",
+	"description": "98th element on the periodic table with a symbol of [accent]Cf[] \n\ndiscovered in 1950 by Lawrence Berkeley National Laboratory\n\nhave 98 Eletron, 98 Proton and [accent]153[] Neutron\n\nweight: 251.0796 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

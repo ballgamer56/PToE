@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Gadolinium (element)",
+	"description": "64th element on the periodic table with a symbol of [accent]Gd[] \n\ndiscovered in 1880 by Jean Charles Galissard de Marignac\n\nhave 64 Eletron, 64 Proton and [accent]93[] Neutron\n\nweight: 157.25 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}
