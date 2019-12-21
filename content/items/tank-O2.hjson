@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Oxygen tank",
+	"description": "Tank full of Oxygen, Which is a very good oxidizer",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "cccccc"
+}

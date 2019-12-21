@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Bromine (element)",
+	"description": "35th element on the periodic table with a symbol of [accent]Br[] \n\ndiscovered in 1826 by Antoine-Jérôme Balard, Karl Jakob Leuwich\n\nhave 35 Eletron, 35 Proton and [accent]45[] Neutron\n\nweight: 79.904 g/mol",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

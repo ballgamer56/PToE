@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Carbondioxide tank",
+	"description": "Tank full of Crabondioxide. Pressurize it might make it useful",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "cccccc"
+}

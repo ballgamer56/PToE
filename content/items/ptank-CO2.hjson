@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Pressurized Carbondioxide tank",
+	"description": "Tank full of pressurized Crabondioxide. useful for air powered/air propelled projectile",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "40e0d0"
+}
