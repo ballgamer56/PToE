@@ -1,0 +1,31 @@
+{
+	"type": "GenericCrafter",
+	"name": "Kevlar combiner",
+	"description": "combine 14 C, 14 H, 2 N and 4 O into C14H14N2O4 or Kevlar, Use for making bulletsoof (it's actually bullet resistant) vest and mech",
+	"itemCapacity": 50,
+	"outputItem": {"item": "C14H14N2O4", "amount":1},
+	"size": 2,
+	"hasPower": true, 
+	"hasItems": true,
+	"craftTime": 120,
+	"updateEffect": "none",
+	"consumes": {
+		"power": 3.0
+		"items": {
+			"items": [
+				{ "item": "C", "amount": 14 },
+				{ "item": "H", "amount": 14 },
+				{ "item": "N", "amount": 2 },
+				{ "item": "O", "amount": 4 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 20 },
+		{ "item": "copper", "amount": 20 }
+	],
+	"category": "crafting",
+	"research": "syn-O",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

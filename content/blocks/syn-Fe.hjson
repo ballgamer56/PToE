@@ -17,7 +17,7 @@
 		{ "item": "copper", "amount": 10 }
 	],
 	"category": "production",
-	"research": "mechanical-drill",
+	"research": "syn-O",
 	"idleSound": "respawning",
 	"idleSoundVolume": 0.5
 }
