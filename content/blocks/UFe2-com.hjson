@@ -1,0 +1,29 @@
+{
+	"type": "GenericCrafter",
+	"name": "Ferrouranium combiner",
+	"description": "combine 1 U and 2 Fe into UFe2 or Ferrouranium, use for railgun ammo",
+	"itemCapacity": 50,
+	"outputItem": {"item": "UFe2", "amount":1},
+	"size": 1,
+	"hasPower": true, 
+	"hasItems": true,
+	"craftTime": 120,
+	"updateEffect": "none",
+	"consumes": {
+		"power": 2.0
+		"items": {
+			"items": [
+				{ "item": "U", "amount": 1 },
+				{ "item": "Fe", "amount": 2 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 20 },
+		{ "item": "copper", "amount": 20 }
+	],
+	"category": "crafting",
+	"research": "pressure-CO2",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

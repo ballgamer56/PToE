@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Ferrouranium",
+	"description": "an alloy of iron and uranium",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

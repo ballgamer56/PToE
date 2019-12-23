@@ -1,0 +1,29 @@
+{
+	"type": "GenericCrafter",
+	"name": "CO2 powered bullets assmebler",
+	"description": "use pressurized CO2 and 5 bars of lead to a box of make 10 rounds of CO2 powered lead bullet",
+	"itemCapacity": 50,
+	"outputItem": {"item": "p-CO2-bullet-i", "amount":1},
+	"size": 1,
+	"hasPower": true, 
+	"hasItems": true,
+	"craftTime": 120,
+	"updateEffect": "none",
+	"consumes": {
+		"power": 2.0
+		"items": {
+			"items": [
+				{ "item": "ptank-CO2", "amount": 1 },
+				{ "item": "lead", "amount": 5 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 50 },
+		{ "item": "copper", "amount": 50 }
+	],
+	"category": "crafting",
+	"research": "pressure-CO2",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

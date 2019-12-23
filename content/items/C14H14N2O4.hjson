@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Kevlar",
+	"description": "heat-resisting and strong synthetic fiber, related to other aramids such as Nomex and Technora. Developed by Stephanie Kwolek at DuPout in 1965",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

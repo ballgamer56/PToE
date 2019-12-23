@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Box of CO2 powered lead bullets",
+	"description": "contain 10 rounds of lead bullet which is powered by pressurized Carbon dioxide",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "cccccc"
+}

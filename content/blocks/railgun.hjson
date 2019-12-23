@@ -1,0 +1,40 @@
+{
+	"type": "ItemTurret",
+	"name": "Railgun",
+	"description": "Railgun using Ferrouranium as the bullet",
+	"health": 500,
+	"size": 2,
+	"maxAmmo": 25,
+	"itemCapacity": 25,
+	"reload": 500,
+	"range": 500,
+	"shot": 2,
+	"shotWidth": 5,
+	"inaccuracy": 0,
+	"rotatespeed": 0.5,
+	"ammo": {
+		"UFe2": {
+			"type": "BasicBulletType",
+			"lifetime": 600,
+			"reload": 500,
+			"speed": 20,
+			"damage": 250,
+			"bulletWidth": 7,
+			"bulletHeight": 9,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootBigSmoke",
+        "hitEffect": "shootBig2",
+			"ammoMultiplier": 1,
+			"bulletSprite": "ptoe-railgun-bullet"
+		}
+	},
+	"requirements": [
+		{ "item": "graphite", "amount": 100 },
+		{ "item": "titanium", "amount": 250 },
+		{ "item": "lead", "amount": 250 },
+		{ "item": "copper", "amount": 250 },
+		{ "item": "surge-alloy", "amount": 50 },
+	],
+	"category": "turret",
+	"research": "p-CO2-bullet"
+}

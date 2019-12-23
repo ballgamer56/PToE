@@ -1,0 +1,20 @@
+{
+	"ammo": {
+		"copper": "standardCopper",
+		"graphite": "standardDense",
+		"pyratite": "standardIncendiary",
+		"silicon": "standardHoming",
+		"p-CO2-bullet-i": {
+			"speed": 8.0,
+			"damage": 75,
+			"reloadMultiplier": 2.5,
+			"bulletWidth": 7,
+			"bulletHeight": 9,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 10,
+			"backColor": "ac7349",
+			"frontColor": "dcd16b"
+		}
+	}
+}

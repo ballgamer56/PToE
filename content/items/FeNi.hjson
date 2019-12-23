@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Invar",
+	"description": "also known generically as FeNi36 (64FeNi is the US), is a nickle-iron alloy notable for its uniquely low coefficient of thermal expansion",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

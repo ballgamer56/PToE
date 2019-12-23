@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Ferrosilicon",
+	"description": "an alloy of iron and silicon",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

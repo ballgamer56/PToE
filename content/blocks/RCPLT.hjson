@@ -1,0 +1,38 @@
+{
+	"type": "DoubleTurret",
+	"name": "RCPLT",
+	"description": "RCPLT or [accent]R[]apid fire [accent]C[]O2 [accent]P[]owered [accent]L[]ead bullets [accent]T[]urret",
+	"health": 250,
+	"size": 2,
+	"maxAmmo": 1200,
+	"itemCapacity": 120,
+	"reload": 0.5,
+	"range": 100,
+	"shot": 2,
+	"shotWidth": 5,
+	"inaccuracy": 5,
+	"rotatespeed": 10,
+	"ammo": {
+		"p-CO2-bullet-i": {
+			"type": "BasicBulletType",
+			"lifetime": 600,
+			"reload": 0.05,
+			"speed": 7,
+			"damage": 75,
+			"bulletWidth": 7,
+			"bulletHeight": 9,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootBigSmoke",
+        "hitEffect": "shootBig2",
+			"ammoMultiplier": 10,
+			"bulletSprite": "ptoe-CO2L"
+		}
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 25 },
+		{ "item": "copper", "amount": 25 },
+		{ "item": "surge-alloy", "amount": 5 },
+	],
+	"category": "turret",
+	"research": "p-CO2-bullet"
+}
