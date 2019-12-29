@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "LED (item)",
+	"description": "You can carry this to another level via loadout configure",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "ffffff"
+}

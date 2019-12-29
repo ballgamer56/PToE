@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Tritium",
+	"description": "Tritium or Hydrogen-3 is an isotope of Hydrogen. use for powering fusion reactor",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "8eff42"
+}

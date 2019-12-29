@@ -1,0 +1,39 @@
+{
+	"type": "ImpactReactor",
+	"name": "Fusion reactor",
+	"description": "Reactor powered by Deuterium and Tritium. use [accent]Liquid Hydrogen[] for cooling. require a ton of power to start up",
+	"size": 5,
+	"health": 1000,
+	"itemCapacity": 500,
+	"liquidCapacity": 5000,
+	"explosionRadius": 1500,
+	"explosionDamage": 5000,
+	"itemDuration": 360000,
+	"powerProduction": 2500,
+	"smokeThreshold": 0.05,
+	"flashThreshold": 0.10,
+	"minItemEfficiency": 0.2,
+	"randomlyExplode": false, 
+	"heating": 0.05,
+	"coolantPower": 1,
+	"consumes": {
+	"power": 500
+	"items": {
+			"items": [
+				{ "item": "H-2", "amount": 100 },
+				{ "item": "H-3", "amount": 100 }
+			]
+		}
+	"liquid": {
+		"liquid": "l-H2", "amount": 5}
+	},
+	"requirements": [
+		{ "item": "titanium", "amount": 500 },
+		{ "item": "copper", "amount": 1000 },
+		{ "item": "graphite", "amount": 250 },
+		{ "item": "silicon", "amount": 250 },
+		{ "item": "lead", "amount": 750 },
+	],
+	"category": "power",
+	"research": "rtg-generator"
+}

@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Hydrogen tank",
+	"description": "Tank full of Hydrogen, Can be condense and cool to get the liquid form of it or modify it to create its isotropes",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "cccccc"
+}

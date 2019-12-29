@@ -1,0 +1,7 @@
+{
+	"name": "Liquid Hydrogen",
+	"description": "Liquid version of Hydrogen with a temperature of 20.28 K (−423.17 fahrenheit or −252.87 Celseius)",
+	"temperature": 0.01,
+    "viscosity": 0.2,
+    "color": "e3e3e3"
+}

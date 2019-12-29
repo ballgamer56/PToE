@@ -1,0 +1,32 @@
+{
+	"type": "GenericCrafter",
+	"name": "LED assembler",
+	"description": "assemble LED bulb for you. which you can carry to another level",
+	"itemCapacity": 50,
+	"outputItem": {"item": "led-item", "amount":1},
+	"size": 2,
+	"hasPower": true, 
+	"hasItems": true,
+	"craftTime": 300,
+	"updateEffect": "none",
+	"consumes": {
+		"power": 2.0
+		"items": {
+			"items": [
+				{ "item": "Y", "amount": 3 },
+				{ "item": "Al", "amount": 2 },
+				{ "item": "O", "amount": 12 },
+				{ "item": "copper", "amount": 10 },
+				{ "item": "lead", "amount": 5 },
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 20 },
+		{ "item": "copper", "amount": 20 }
+	],
+	"category": "crafting",
+	"research": "power-node",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

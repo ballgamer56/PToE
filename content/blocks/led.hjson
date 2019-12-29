@@ -1,0 +1,17 @@
+{
+	"type": "LightBlock",
+	"name": "LED",
+	"description": "Light Emitting Diode or LED is the more efficient light source. it will produce more light with the same amount of power", 
+	"brightness": 1.0,
+	"radius": 200,
+	"hasPower": true,
+	"alwaysUnlocked": true,
+	"consumes": {
+		"power": 0.05
+	},
+	"requirements": [
+		{ "item": "led-item", "amount": 1 }
+	],
+	"category": "effect",
+	"idleSoundVolume": 0.5
+}

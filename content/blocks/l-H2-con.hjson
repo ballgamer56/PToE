@@ -1,0 +1,32 @@
+{
+	"type": "GenericSmelter",
+	"name": "Liquid Hydrogen cooler and condenser",
+	"description": "produce liquid hydrogen by cooling and condensing it. use quite a lot of power",
+	"itemCapacity": 100,
+	"outputLiquid": {"liquid": "l-H2", "amount": 500},
+	"size": 2,
+	"hasPower": true,
+	"craftTime": 120,
+	"updateEffect": "none",
+	"consumes": {
+		"power": 5
+		"liquid": {
+			"liquid": "water",
+			"amount": 0.01
+		}
+		"items": {
+			"items": [
+				{ "item": "tank-H2", "amount": 5}
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 10 },
+		{ "item": "graphite", "amount": 5 },
+		{ "item": "copper", "amount": 10 }
+	],
+	"category": "production",
+	"research": "mechanical-drill",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

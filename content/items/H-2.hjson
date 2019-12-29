@@ -1,0 +1,8 @@
+{
+	"type": "resource",
+	"name": "Deuterium",
+	"description": "Deuterium or Hydrogen-2 is an isotope of Hydrogen. use for powering fusion reactor",
+	"hardness": 1,
+	"cost": 1.0,
+	"color": "9ab8fa"
+}

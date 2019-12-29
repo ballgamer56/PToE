@@ -1,0 +1,28 @@
+{
+	"type": "GenericCrafter",
+	"name": "Hydrogen (H2) combiner",
+	"description": "combine 2 H into H2 or Hydrogen gas",
+	"itemCapacity": 50,
+	"outputItem": {"item": "tank-H2", "amount":1},
+	"size": 1,
+	"hasPower": true, 
+	"hasItems": true,
+	"craftTime": 120,
+	"updateEffect": "none",
+	"consumes": {
+		"power": 2.0
+		"items": {
+			"items": [
+				{ "item": "H", "amount": 2 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 20 },
+		{ "item": "copper", "amount": 20 }
+	],
+	"category": "crafting",
+	"research": "pressure-CO2",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
